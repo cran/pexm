@@ -1,6 +1,6 @@
-61ea51d858609cf9e2fb92508dbaa8fd *DESCRIPTION
+119e14f56647f80e0a9d8115552e9ddb *DESCRIPTION
 b220a1933ad242eb2f0bb4ab3bbb0639 *NAMESPACE
-1f735b6c642828742748d9c0ddd41a25 *NEWS
+ffe59ce39d388391f02c2b4d77a5a6f5 *NEWS
 4fb4cc04a4b16e9c09c85175a535885e *R/loadpexm.R
 0a95367cd2b47fd5d4cb2bbeeea33900 *R/pexm.R
 41af60e1a5ebcec777c0c4ccc7efa31e *README.md
@@ -11,6 +11,7 @@ b220a1933ad242eb2f0bb4ab3bbb0639 *NAMESPACE
 154dd16ac1e532cd718c4cbfe5d668ff *man/loadpexm.Rd
 4ff914e7e3abe12abd447490d20ff2c2 *man/pexm.Rd
 6589896877bd77bd478504251f41d50b *src/Makevars.in
+7761c2032ffe6eecc1b4379ceb7443a8 *src/Makevars.ucrt
 8109bc571f0bc57bf5feddbf55005b25 *src/Makevars.win
 c552249db36125362d9bd1fcfcf78567 *src/distributions/DPex.cc
 55485eb190bc05eff8e98c2fdbfb3551 *src/distributions/DPex.h
