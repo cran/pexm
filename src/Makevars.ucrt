@@ -1,5 +1,5 @@
 ##############################################################################################################
-# This Makevars.win (Windows) is based on similar files taken as examples from the packages runjags and rjags.
+# Makevars.ucrt (Windows).
 #
 # Remark: The user must adapt the JAGS_ROOT variable below when:
 #         - the JAGS version is not 4.3.0;
